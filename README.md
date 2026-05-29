@@ -6,13 +6,13 @@ Proyecto de análisis de datos desarrollado en Power BI enfocado en el monitoreo
 
 Diseñar un dashboard ejecutivo que permita visualizar tendencias de asistencia, desempeño operativo y métricas clave para apoyar la toma de decisiones.
 
-##🛠️ Herramientas Utilizadas
+## 🛠️ Herramientas Utilizadas
 Power BI
 Excel
 SQL
 Power Query
 
-##KPIs monitoreados
+## KPIs monitoreados
 - Total de visitantes
 - Ingresos mensuales
 - Tendencia de asistencia
@@ -20,7 +20,7 @@ Power Query
 - Indicadores de desempeño operativo
 - Comparativos mensuales
 
-##Proceso realizado
+## Proceso realizado
 Limpieza y transformación de datos
 Modelado de datos
 Creación de métricas en DAX
