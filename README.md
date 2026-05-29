@@ -1,9 +1,8 @@
-# Visitor-Operations-Analytics-Dashboard
-Visitor & Operations Analytics Dashboard
+### Visitor-Operations-Analytics-Dashboard
 
 Proyecto de análisis de datos desarrollado en Power BI enfocado en el monitoreo de indicadores operativos y experiencia del visitante dentro de un entorno educativo/cultural.
 
-Objetivo
+ ## 🎯 Objetivo 
 
 Diseñar un dashboard ejecutivo que permita visualizar tendencias de asistencia, desempeño operativo y métricas clave para apoyar la toma de decisiones.
 
@@ -37,3 +36,12 @@ Vista previa
 Sobre mí
 
 Ingeniera en Computación con experiencia en análisis operativo, KPIs y mejora de procesos. Actualmente fortaleciendo habilidades en Data Analytics y Business Intelligence.
+
+## ▶ Cómo abrir el notebook en Google Colab
+
+Haz clic en el siguiente botón:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/Project_NovaRetail/blob/main/Project_NovaRetail_.ipynb)
+
+
+
