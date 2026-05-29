@@ -47,7 +47,7 @@ visuals/: Gráficos de barras, histogramas y boxplot generados.
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/Project_NovaRetail/blob/main/Project_NovaRetail_.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/Project_NovaRetail/blob/main/.ipynb)
 
 Sobre mí
 
