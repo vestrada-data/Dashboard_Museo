@@ -1,5 +1,5 @@
 
-#### Visitor & Operations Analytics-Dashboard
+### VISITOR & OPERATIONS ANALYTICS DASHBOARD 
 
 Proyecto de análisis de datos desarrollado en Power BI enfocado en el monitoreo de indicadores operativos y experiencia del visitante dentro de un entorno educativo/cultural.
 
