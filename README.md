@@ -13,22 +13,17 @@ Eficiencia Operativa: ¿Qué días o temporadas generan picos de asistencia que 
 
 ## 🛠️ Herramientas Utilizadas
 Power BI
-Excel
-SQL
-Power Query
 
 ## KPIs monitoreados
-OperativosTotal de Visitantes: SUM(Total_Visitantes)
+**Operativos** <b>
+Total de Visitantes: SUM(Total_Visitantes)
 Promedio Diario de Visitas: AVERAGE(Total_Visitantes)
 Mix de Audiencia (%): Proporción de Niños, Adultos, Maestros e INAPAM sobre el total.
-
-Financieros
+<b>
+**Financieros**
 Ingreso Total: SUM(Ingreso_Total)
 Ticket Promedio por Visitante: Un ratio crucial para medir el gasto de los usuarios.
 Gasto Promedio por Categoría: Desglose del ticket promedio en Boletaje, Tienda y Cafetería para entender el comportamiento de consumo.
-
-
-
 
 ## Proceso realizado
 Conexión y Limpieza de Datos (Power Query)
