@@ -1,5 +1,5 @@
 
-### VISITOR & OPERATIONS ANALYTICS DASHBOARD 
+### AANALISIS DE DATOS  ANUAL - MUSEO 
 
 Proyecto de análisis de datos desarrollado en Power BI enfocado en el monitoreo de indicadores operativos y experiencia del visitante dentro de un entorno educativo/cultural.
 
@@ -39,22 +39,9 @@ Identificación de patrones de asistencia por temporada
 Detección de horarios de mayor demanda
 Visualización de tendencias operativas para optimización de recursos
 
-(Inserta aquí capturas del dashboard)
+<img width="829" height="466" alt="Captura99" src="https://github.com/user-attachments/assets/cf7d7fe1-2f99-4f33-8c5d-ac088d3c2645" />
 
 
-📁 Estructura del Repositorio
-data/: Contiene los datasets originales (o enlaces a las fuentes).
-
-notebooks/: Jupyter Notebooks con el proceso de limpieza y análisis.
-
-visuals/: Gráficos de barras, histogramas y boxplot generados.
-
-
-## ▶ Cómo abrir el notebook en Google Colab
-
-Haz clic en el siguiente botón:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/Project_NovaRetail/blob/main/.ipynb)
 
 Sobre mí
 
