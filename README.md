@@ -7,7 +7,9 @@ Proyecto de análisis de datos desarrollado en Power BI enfocado en el monitoreo
 
 Diseñar un dashboard ejecutivo que permita visualizar tendencias de asistencia, desempeño operativo y métricas clave para apoyar la toma de decisiones.
 
-Comportamiento del Visitante: ¿Cuáles son los días de la semana o tipos de días (Tipo_Dia) con mayor afluencia? ¿Cómo se distribuye nuestro público (niños, adultos, maestros, INAPAM)?
+Comportamiento del Visitante: 
+¿Cuáles son los días de la semana o tipos de días (Tipo_Dia) con mayor afluencia? 
+¿Cómo se distribuye nuestro público (niños, adultos, maestros, INAPAM)?
 Rendimiento Financiero: ¿Cuál es la principal fuente de ingresos (Ingreso_Boletaje, Tienda, Cafeteria) y cómo se correlacionan con el volumen de visitas?
 Eficiencia Operativa: ¿Qué días o temporadas generan picos de asistencia que requieran planificar más personal o inventario?
 
@@ -15,17 +17,14 @@ Eficiencia Operativa: ¿Qué días o temporadas generan picos de asistencia que 
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## KPIs monitoreados
-**Operativos** <b>
-Total de Visitantes: SUM(Total_Visitantes)
-Promedio Diario de Visitas: AVERAGE(Total_Visitantes)
-Mix de Audiencia (%): Proporción de Niños, Adultos, Maestros e INAPAM sobre el total.
-<b>
-**Financieros**
-Ingreso Total: SUM(Ingreso_Total)
-Ticket Promedio por Visitante: Un ratio crucial para medir el gasto de los usuarios.
-Gasto Promedio por Categoría: Desglose del ticket promedio en Boletaje, Tienda y Cafetería para entender el comportamiento de consumo.
+**Operativos** <br>
+Total de Visitantes
+Ingresos Totales ( Boletaje + Cafeteria + Tienda) 
+Ingresos Boletaje 
+Ingresos Tienda + Cafetria 
+Ingreso Promedio x Visitante
+<br>
 
-## Proceso realizado
 Conexión y Limpieza de Datos (Power Query)
 - Limpieza y transformación de datos
 - Validación de Calidad
@@ -36,8 +35,11 @@ Conexión y Limpieza de Datos (Power Query)
 
 ***Principales insights*** <br>
 Identificación de patrones de asistencia por temporada
-Detección de horarios de mayor demanda
-Visualización de tendencias operativas para optimización de recursos
+Concentración de demanda en períodos vacacionales
+Estabilidad del ingreso por visitante ante variaciones de afluencia
+Dependencia de la demanda en el segmento infantil
+Comportamiento constante de segmentos preferenciales (Maestros e INAPAM)
+Desconexión entre volumen de afluencia e ingresos complementarios
 
 <img width="829" height="466" alt="Captura99" src="https://github.com/user-attachments/assets/cf7d7fe1-2f99-4f33-8c5d-ac088d3c2645" />
 
