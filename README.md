@@ -46,16 +46,16 @@ Visualización de tendencias operativas para optimización de recursos
 ## Comunicación con Stakeholders -(Método SCQA)
 Estimada Dirección General,
 
-SITUACIÓN
+SITUACIÓN <br>
 Durante 2025 el museo ha registrado más de 329,000 visitantes y $85 millones en ingresos totales, operando con información dispersa que dificultaba identificar patrones y tomar decisiones con agilidad.
 
-COMPLICACIÓN
+COMPLICACIÓN <br>
 Sin una vista consolidada, era difícil responder preguntas clave en tiempo real: ¿qué tipo de día genera más valor?, ¿qué segmento de visitante mueve la demanda?, ¿estamos creciendo o repitiendo el mismo comportamiento cada año?
 
-PREGUNTA
+PREGUNTA <br>
 ¿Cómo podemos convertir los datos operativos del museo en una herramienta que apoye decisiones estratégicas de forma inmediata?
 
-RESPUESTA
+RESPUESTA <br>
 Hemos desarrollado un Panel de Decisiones Operativas en Power BI, disponible a partir de hoy, que consolida en dos vistas los indicadores más relevantes:
 
 • Overview ejecutivo — KPIs de afluencia e ingresos, tendencia mensual, composición de visitantes y comportamiento por tipo de día.
