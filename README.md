@@ -9,8 +9,8 @@ Diseñar un dashboard ejecutivo que permita visualizar tendencias de asistencia,
 
 Comportamiento del Visitante: 
 ¿Cuáles son los días de la semana o tipos de días (Tipo_Dia) con mayor afluencia? 
-¿Cómo se distribuye nuestro público (niños, adultos, maestros, INAPAM)?
-Rendimiento Financiero: ¿Cuál es la principal fuente de ingresos (Ingreso_Boletaje, Tienda, Cafeteria) y cómo se correlacionan con el volumen de visitas?
+¿Cómo se distribuye nuestro público (niños, adultos, maestros, INAPAM)? <br>
+Rendimiento Financiero: ¿Cuál es la principal fuente de ingresos (Ingreso_Boletaje, Tienda, Cafeteria) y cómo se correlacionan con el volumen de visitas? <br>
 Eficiencia Operativa: ¿Qué días o temporadas generan picos de asistencia que requieran planificar más personal o inventario?
 
 ## 🛠️ Herramientas Utilizadas
@@ -34,12 +34,12 @@ Conexión y Limpieza de Datos (Power Query)
 - Generación de insights para toma de decisiones
 
 ***Principales insights*** <br>
-Identificación de patrones de asistencia por temporada
-Concentración de demanda en períodos vacacionales
-Estabilidad del ingreso por visitante ante variaciones de afluencia
-Dependencia de la demanda en el segmento infantil
-Comportamiento constante de segmentos preferenciales (Maestros e INAPAM)
-Desconexión entre volumen de afluencia e ingresos complementarios
+Identificación de patrones de asistencia por temporada <br>
+Concentración de demanda en períodos vacacionales <br>
+Estabilidad del ingreso por visitante ante variaciones de afluencia <br>
+Dependencia de la demanda en el segmento infantil <br>
+Comportamiento constante de segmentos preferenciales (Maestros e INAPAM) <br>
+Desconexión entre volumen de afluencia e ingresos complementarios <br>
 
 <img width="829" height="466" alt="Captura99" src="https://github.com/user-attachments/assets/cf7d7fe1-2f99-4f33-8c5d-ac088d3c2645" />
 
