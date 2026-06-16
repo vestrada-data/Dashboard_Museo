@@ -12,7 +12,7 @@ Rendimiento Financiero: ¿Cuál es la principal fuente de ingresos (Ingreso_Bole
 Eficiencia Operativa: ¿Qué días o temporadas generan picos de asistencia que requieran planificar más personal o inventario?
 
 ## 🛠️ Herramientas Utilizadas
-Power BI
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## KPIs monitoreados
 **Operativos** <b>
