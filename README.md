@@ -34,7 +34,7 @@ Conexión y Limpieza de Datos (Power Query)
 - Diseño de dashboard ejecutivo
 - Generación de insights para toma de decisiones
 
-Principales insights
+**Principales insights
 Identificación de patrones de asistencia por temporada
 Detección de horarios de mayor demanda
 Visualización de tendencias operativas para optimización de recursos
@@ -43,6 +43,7 @@ Visualización de tendencias operativas para optimización de recursos
 
 <img width="828" height="461" alt="Captura99A" src="https://github.com/user-attachments/assets/d5106042-c23c-4b5d-9d2b-559884a50e71" />
 
+##Comunicación con Stakeholders -(Método SCQA)
 Estimada Dirección General,
 
 SITUACIÓN
