@@ -41,10 +41,27 @@ Visualización de tendencias operativas para optimización de recursos
 
 <img width="829" height="466" alt="Captura99" src="https://github.com/user-attachments/assets/cf7d7fe1-2f99-4f33-8c5d-ac088d3c2645" />
 
+<img width="828" height="461" alt="Captura99A" src="https://github.com/user-attachments/assets/d5106042-c23c-4b5d-9d2b-559884a50e71" />
 
+Estimada Dirección General,
+SITUACIÓN
+Durante 2025 el museo ha registrado más de 329,000 visitantes y $85 millones en ingresos totales, operando con información dispersa que dificultaba identificar patrones y tomar decisiones con agilidad.
 
-Sobre mí
+COMPLICACIÓN
+Sin una vista consolidada, era difícil responder preguntas clave en tiempo real: ¿qué tipo de día genera más valor?, ¿qué segmento de visitante mueve la demanda?, ¿estamos creciendo o repitiendo el mismo comportamiento cada año?
 
-Ingeniera en Computación con experiencia en análisis operativo, KPIs y mejora de procesos. Actualmente fortaleciendo habilidades en Data Analytics y Business Intelligence.
+PREGUNTA
+¿Cómo podemos convertir los datos operativos del museo en una herramienta que apoye decisiones estratégicas de forma inmediata?
 
+RESPUESTA
+Hemos desarrollado un Panel de Decisiones Operativas en Power BI, disponible a partir de hoy, que consolida en dos vistas los indicadores más relevantes:
+
+• Overview ejecutivo — KPIs de afluencia e ingresos, tendencia mensual, composición de visitantes y comportamiento por tipo de día.
+• Detalle analítico — Patrones semanales, evolución de segmentos y tabla de exploración por fecha.
+
+Los primeros hallazgos son concretos: un día de vacaciones concentra el triple de visitantes que un día escolar, el ingreso por visitante se mantiene estable en ~$257 independientemente del volumen, y los niños representan 6 de cada 10 visitas.
+
+Quedo disponible para agendar una sesión de walkthrough donde revisemos el dashboard juntos y definamos las preguntas prioritarias para la siguiente etapa.
+
+Quedo a sus órdenes,
 
