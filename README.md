@@ -1,5 +1,5 @@
 
-### ANALISIS DE DATOS 2025 - MUSEO 
+### DASHBOARD EJECUTIVO - ANALISIS DE DATOS 2025 MUSEO 
 
 Proyecto de análisis de datos desarrollado en Power BI enfocado en el monitoreo de indicadores operativos y experiencia del visitante dentro de un entorno educativo/cultural.
 
