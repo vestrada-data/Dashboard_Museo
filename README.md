@@ -34,7 +34,7 @@ Conexión y Limpieza de Datos (Power Query)
 - Diseño de dashboard ejecutivo
 - Generación de insights para toma de decisiones
 
-***Principales insights***
+***Principales insights*** <br>
 Identificación de patrones de asistencia por temporada
 Detección de horarios de mayor demanda
 Visualización de tendencias operativas para optimización de recursos
